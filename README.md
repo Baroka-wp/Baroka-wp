@@ -1,5 +1,5 @@
 
-# Hi ✋ I'm Baroka 
+# Hi I'm Baroka ✨ 
 --- Funder of [Africa Samurai](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2098002/)
 --- Remote Full stack web developer and junior Machine learning && ready for adventure🔥 
 
@@ -27,8 +27,25 @@ const barokaIrotori = {
       phoneNumber: 0022967153974,
       email: "birotori@gmail.com"
   },
-  challenge: "Je perfectionne mes compétences en JavaScript et je pense à un projet avec IA.",
+  challenge: "I'm honing my JavaScript skills and thinking about a project with AI.",
   funFacts: ['I am able to walk 10 km and talk to myself on the road when I get stuck on a code']
 }
 
 ```
+
+# Projects 🏗️
+}
+  "Machine learning" :[
+          ["Faster_R_CNN_and_YOLO_v3"](https://github.com/Baroka-wp/dive_ML/blob/master/Faster_R_CNN_and_YOLO_v3.ipynb), 
+          ["sprint_10_deep neuronal networl"](https://github.com/Baroka-wp/dive_ML/blob/master/Sprint10_Deep_neuronal_network.ipynb) 
+  ],
+  "webpack" : ["to do list"](https://github.com/Baroka-wp/toDoProject),
+  "ruby": [
+            ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
+            ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
+          ]
+  "Ruby on Rails": [
+            ["Intagram Clone"](https://github.com/Baroka-wp/InstaClone)],
+            ["Master Mind "](https://github.com/Baroka-wp/masterM)],
+          ]
+}

@@ -42,9 +42,9 @@ const barokaIrotori = {
 - ["to do list"](https://github.com/Baroka-wp/toDoProject),
 
 ### ruby:
-- ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
-- ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
+- ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)
+- ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)
 
 ### Ruby on Rails"
-- ["Intagram Clone"](https://github.com/Baroka-wp/InstaClone)],
-- ["Master Mind "](https://github.com/Baroka-wp/masterM)],
+- ["Intagram Clone"](https://github.com/Baroka-wp/InstaClone)
+- ["Master Mind "](https://github.com/Baroka-wp/masterM)

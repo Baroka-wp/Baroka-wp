@@ -30,5 +30,3 @@ const barokaIrotori = {
 }
 
 ```
-
-https://rss.app/feeds/d3BQe9eX4SnwwQB6.xml

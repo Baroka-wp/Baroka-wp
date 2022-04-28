@@ -1,9 +1,12 @@
-### Hi, I'm Baroka Irotori 👋 --- Remote Full stack web developer and junior Machine learning 🔥
+# Hi, I'm Baroka Irotori 👋 
+--- Remote Full stack web developer and junior Machine learning 🔥
 
+Remote Full-stack web developer ready for adventure
 
+Linkedin Badge Twitter Badge ThePracticalDev Badge
 
 ```
-import * frome './Avalaible for new challenges';
+import * from './Avalaible for new challenges';
 
 const barokaIrotori = {
   lookingFor: "Full stack web developer✨ " || "Data analysis✨ ",

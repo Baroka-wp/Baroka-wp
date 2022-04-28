@@ -1,5 +1,6 @@
 
 # Hi ✋ I'm Baroka 
+--- Funder of [Africa Samurai](https://africasamurai.com)
 --- Remote Full stack web developer and junior Machine learning && ready for adventure🔥 
 
 [![Linkedin Badge](https://img.shields.io/badge/-baroka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baroka/)](https://www.linkedin.com/in/baroka/)
@@ -27,6 +28,7 @@ const barokaIrotori = {
       email: "birotori@gmail.com"
   },
   challenge: "Je perfectionne mes compétences en JavaScript et je pense à un projet avec IA.",
+  proudOf : "[watch this video](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2098002/)"
   funFacts: ['I am able to walk 10 km and talk to myself on the road when I get stuck on a code']
 }
 

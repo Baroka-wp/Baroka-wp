@@ -2,8 +2,8 @@
 # Hi ✋ I'm Baroka 
 --- Remote Full stack web developer and junior Machine learning && ready for adventure🔥 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baroka/)](https://www.linkedin.com/in/baroka/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IrotoriB)](https://twitter.com/IrotoriB)
+[![Linkedin Badge](https://img.shields.io/badge/-baroka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baroka/)](https://www.linkedin.com/in/baroka/)
+[![Twitter Badge](https://img.shields.io/badge/-@IrotoriB-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IrotoriB)](https://twitter.com/IrotoriB)
 
 ```
 import * from './Avalaible for new challenges';

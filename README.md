@@ -34,18 +34,17 @@ const barokaIrotori = {
 ```
 
 # Projects 🏗️
-}
-  "Machine learning" :[
-          ["Faster_R_CNN_and_YOLO_v3"](https://github.com/Baroka-wp/dive_ML/blob/master/Faster_R_CNN_and_YOLO_v3.ipynb), 
-          ["sprint_10_deep neuronal networl"](https://github.com/Baroka-wp/dive_ML/blob/master/Sprint10_Deep_neuronal_network.ipynb) 
-  ],
-  "webpack" : ["to do list"](https://github.com/Baroka-wp/toDoProject),
-  "ruby": [
-            ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
-            ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
-          ]
-  "Ruby on Rails": [
-            ["Intagram Clone"](https://github.com/Baroka-wp/InstaClone)],
-            ["Master Mind "](https://github.com/Baroka-wp/masterM)],
-          ]
-}
+### Machine learning
+- ["Faster_R_CNN_and_YOLO_v3"](https://github.com/Baroka-wp/dive_ML/blob/master/Faster_R_CNN_and_YOLO_v3.ipynb), 
+- ["sprint_10_deep neuronal networl"](https://github.com/Baroka-wp/dive_ML/blob/master/Sprint10_Deep_neuronal_network.ipynb),
+
+### webpack
+- ["to do list"](https://github.com/Baroka-wp/toDoProject),
+
+### ruby:
+- ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
+- ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)],
+
+### Ruby on Rails"
+- ["Intagram Clone"](https://github.com/Baroka-wp/InstaClone)],
+- ["Master Mind "](https://github.com/Baroka-wp/masterM)],

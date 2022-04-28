@@ -1,10 +1,8 @@
 
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-
-
+# Hi ✋ I'm Baroka 
 --- Remote Full stack web developer and junior Machine learning && ready for adventure🔥 
 
-
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 ```
 import * from './Avalaible for new challenges';
 

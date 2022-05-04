@@ -33,10 +33,18 @@ const barokaIrotori = {
 
 ```
 
-# Projects 🏗️
+# MY PORTFOLIO 🏗️
+
 ### Machine learning
 - ["Faster_R_CNN_and_YOLO_v3"](https://github.com/Baroka-wp/dive_ML/blob/master/Faster_R_CNN_and_YOLO_v3.ipynb), 
-- ["sprint_10_deep neuronal networl"](https://github.com/Baroka-wp/dive_ML/blob/master/Sprint10_Deep_neuronal_network.ipynb),
+- ["Object detection deep learning"](https://colab.research.google.com/drive/1W5SDwsc-kbiMv3KclhaNJBdPOMpjlOSQ?hl=fr#scrollTo=vV1Nr_wRvdsK),
+
+![Capture d’écran 2022-05-04 à 16 22 09](https://user-images.githubusercontent.com/67879818/166715163-92ad92f8-fd93-4062-98d1-397ae59d01ab.png)
+
+## SASS PROJECT
+- ["Global SAMURAI](https://github.com/Baroka-wp/GlobalSamurai)
+![chrome-capture-2022-4-4 (1)](https://user-images.githubusercontent.com/67879818/166714070-185e3ec3-e164-44cd-a1ac-dc652e8bf471.gif)
+
 
 ### webpack
 - ["to do list"](https://github.com/Baroka-wp/toDoProject),

@@ -35,7 +35,7 @@ const barokaIrotori = {
 }
 
 ```
-<figure><embed src="https://wakatime.com/share/@e10c1504-bcac-4fb4-8304-5911ac25149a/84026a50-d375-45cc-9a51-2da692c266a3.svg"></embed></figure>
+
 
 # MY PORTFOLIO 🏗️
 
@@ -46,17 +46,21 @@ const barokaIrotori = {
 ![Capture d’écran 2022-05-04 à 16 22 09](https://user-images.githubusercontent.com/67879818/166715163-92ad92f8-fd93-4062-98d1-397ae59d01ab.png)
 
 ## SASS PROJECT
-- ["Global SAMURAI](https://github.com/Baroka-wp/GlobalSamurai)
+
+["Global SAMURAI](https://github.com/Baroka-wp/GlobalSamurai)
 ![chrome-capture-2022-4-4 (1)](https://user-images.githubusercontent.com/67879818/166714070-185e3ec3-e164-44cd-a1ac-dc652e8bf471.gif)
 
 
 ### webpack
+
 - ["to do list"](https://github.com/Baroka-wp/toDoProject),
 
 ### ruby:
+
 - ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)
 - ["slack-notify bot"](https://github.com/Baroka-wp/slack-notify)
 
 ### Ruby on Rails"
+
 - ["Intagram Clone"](https://github.com/Baroka-wp/InstaClone)
 - ["Master Mind "](https://github.com/Baroka-wp/masterM)

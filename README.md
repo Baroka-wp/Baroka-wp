@@ -1,7 +1,8 @@
 
 # Hi I'm Baroka ✨ 
---- Funder of [Africa Samurai](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2098002/)
---- Remote Full stack web developer and junior Machine learning && ready for adventure🔥 
+--- Remote Full stack web developer with knowledge in HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 🔥 
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-baroka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baroka/)](https://www.linkedin.com/in/baroka/)
 [![Twitter Badge](https://img.shields.io/badge/-@IrotoriB-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IrotoriB)](https://twitter.com/IrotoriB)

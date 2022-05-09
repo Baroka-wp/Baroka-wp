@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baroka-wp&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baroka-wp)](https://github.com/Baroka-wp/github-readme-stats)
-[![Baroka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baroka-wp)](https://github.com/Baroka-wp/github-readme-stats)
+[![Baroka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baroka)](https://github.com/Baroka-wp/github-readme-stats)
 ------
 
 [![Linkedin Badge](https://img.shields.io/badge/-baroka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baroka/)](https://www.linkedin.com/in/baroka/)

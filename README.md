@@ -47,7 +47,8 @@ const barokaIrotori = {
 
 ## SASS PROJECT
 
-["Global SAMURAI](https://github.com/Baroka-wp/GlobalSamurai)
+- ["Global SAMURAI](https://github.com/Baroka-wp/GlobalSamurai)
+
 ![chrome-capture-2022-4-4 (1)](https://user-images.githubusercontent.com/67879818/166714070-185e3ec3-e164-44cd-a1ac-dc652e8bf471.gif)
 
 

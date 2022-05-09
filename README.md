@@ -5,7 +5,9 @@
 - Available for hire 🔥 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baroka-wp&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baroka-wp)](https://github.com/Baroka-wp/github-readme-stats)
+
 [![Baroka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baroka)](https://github.com/Baroka-wp/github-readme-stats)
 ------
 

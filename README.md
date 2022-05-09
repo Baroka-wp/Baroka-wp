@@ -1,8 +1,8 @@
 
 # Hi I'm Baroka ✨ 
---- Full stack web developer 
---- Technologies stack : HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 
---- Available for hire 🔥 
+- Full stack web developer 
+- Technologies stack : HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 
+- Available for hire 🔥 
 
 
 

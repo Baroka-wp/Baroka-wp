@@ -1,7 +1,7 @@
 
 # Hi I'm Baroka ✨ 
-- Full stack web developer 
-- Tech stack : HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 
+- Full-Stack Developer 
+-  HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 
 - Available for hire 🔥 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baroka-wp&show_icons=true&theme=radical)

@@ -1,6 +1,8 @@
 
 # Hi I'm Baroka ✨ 
---- Remote Full stack web developer with knowledge in HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 🔥 
+--- Full stack web developer 
+--- Technologies stack : HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 
+--- Available for hire 🔥 
 
 
 

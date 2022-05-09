@@ -35,6 +35,8 @@ const barokaIrotori = {
 }
 
 ```
+.. image:: https://wakatime.com/share/@e10c1504-bcac-4fb4-8304-5911ac25149a/83b40209-a351-4977-b908-bc1163f0d602.png
+    :target: https://wakatime.com/
 
 # MY PORTFOLIO 🏗️
 

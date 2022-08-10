@@ -1,5 +1,5 @@
 
-# Hi I'm Baroka ✨ 
+# Hi! I'm Baroka ✨ 
 - Full-Stack Developer 
 -  HTML | CSS | JavaScript | Ruby | Ruby on Rails | Data analysis with Python. 
 - Available for hire 🔥 

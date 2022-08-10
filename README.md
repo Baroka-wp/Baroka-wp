@@ -45,7 +45,7 @@ const barokaIrotori = {
 
 ### Ruby on rails 
 - ["Master Mind "](https://mastermind21.herokuapp.com/)
-- ["Bishops"]([#](https://github.com/Baroka-wp/bishops))
+- ["Bishops"](https://github.com/Baroka-wp/bishops)
 
 ### React
 - ["Angel help"](baroka-wp.github.io/angels-help/)

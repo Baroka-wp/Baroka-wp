@@ -59,10 +59,10 @@ const barokaIrotori = {
 ### Api
 - ["Api-the-72-angels-of-the-Kabbal"](https://github.com/Baroka-wp/Api-the-72-angels-of-the-Kabbal)
 
-## SASS PROJECT
+### SASS PROJECT
 - ["Global SAMURAI](https://github.com/Baroka-wp/GlobalSamurai)
 
--------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baroka-wp)](https://github.com/Baroka-wp/github-readme-stats)
 [![Baroka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baroka)](https://github.com/Baroka-wp/github-readme-stats)
-------
+

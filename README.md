@@ -39,13 +39,14 @@ const barokaIrotori = {
 
 # MY PORTFOLIO 🏗️
 
-### Machine learning (Python)
-- ["Faster_R_CNN_and_YOLO_v3"](https://github.com/Baroka-wp/dive_ML/blob/master/Faster_R_CNN_and_YOLO_v3.ipynb), 
-- ["Object detection deep learning"](https://colab.research.google.com/drive/1W5SDwsc-kbiMv3KclhaNJBdPOMpjlOSQ?hl=fr#scrollTo=vV1Nr_wRvdsK),
-
 ### Ruby on rails 
 - ["Master Mind "](https://mastermind21.herokuapp.com/)
 - ["Bishops"](https://github.com/Baroka-wp/bishops)
+- ["Budget app"](https://my-flooz-app.herokuapp.com/)
+
+### Machine learning (Python)
+- ["Faster_R_CNN_and_YOLO_v3"](https://github.com/Baroka-wp/dive_ML/blob/master/Faster_R_CNN_and_YOLO_v3.ipynb), 
+- ["Object detection deep learning"](https://colab.research.google.com/drive/1W5SDwsc-kbiMv3KclhaNJBdPOMpjlOSQ?hl=fr#scrollTo=vV1Nr_wRvdsK),
 
 ### React
 - ["Angel help"](baroka-wp.github.io/angels-help/)
